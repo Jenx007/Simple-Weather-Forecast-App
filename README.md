@@ -19,8 +19,8 @@ This project is a command-line weather forecast application created with a batch
 ### Usage Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Advanced-Weather-Display-App.git
-   cd Advanced-Weather-Display-App
+   git clone https://github.com/Jenx007/Simple-Weather-Forecast-App.git
+   cd Simple-Weather-Forecast-App
    ```
 
 2. **Run the Script**:
